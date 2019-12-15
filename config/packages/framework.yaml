@@ -14,3 +14,5 @@ framework:
     #fragments: true
     php_errors:
         log: true
+
+    # freeze_kernel_events: true
